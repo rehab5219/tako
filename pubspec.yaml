@@ -1,0 +1,51 @@
+name: tako
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_svg: ^2.0.17
+  bloc: ^9.0.0
+  flutter_bloc: ^9.0.0
+  lottie: ^3.3.1
+  firebase_core: ^3.12.1
+  gap: ^3.0.1
+  smooth_page_indicator: ^1.2.1
+  image_picker: ^1.1.2
+  firebase_auth: ^5.5.2
+  cloud_firestore: ^5.6.6
+  firebase_messaging: ^15.2.9
+  dio: ^5.8.0+1
+  shared_preferences: ^2.5.3
+  iconsax: ^0.0.8   
+  animated_notch_bottom_bar: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+
+  fonts:
+    - family: MozillaHeadline
+      fonts:
+        - asset: assets/fonts/MozillaHeadline-Regular.ttf
+          weight: 400 

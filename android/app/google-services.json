@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077501817418",
+    "project_id": "tako-d988c",
+    "storage_bucket": "tako-d988c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077501817418:android:df674f0771ad7d48572cb3",
+        "android_client_info": {
+          "package_name": "com.example.tako"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYouy56qrNCZ7hWn4KP3cAEb5hFOZ6wyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
